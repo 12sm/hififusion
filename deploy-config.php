@@ -42,7 +42,7 @@ define('BRANCH', 'master');
  *
  * @var string Full path including the trailing slash
  */
-define('TARGET_DIR', '/');
+define('TARGET_DIR', '/home/63851/domains/hififusion.12southmusic.com/html/wp-content/themes/hififusion/');
 
 /**
  * Weather to delete the files that are not in the repository but are on the
@@ -107,7 +107,7 @@ define('VERSION_FILE', TMP_DIR.'VERSION.txt');
  *
  * @var int Time in seconds
  */
-define('TIME_LIMIT', 30);
+define('TIME_LIMIT', 10);
 
 /**
  * OPTIONAL
