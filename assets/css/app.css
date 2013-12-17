@@ -319,7 +319,7 @@ h1.entry-title {
 border-bottom: 1px solid #CCC;	
 padding:10px 0;
 text-align: center;
-font-size:4.5em;
+font-size:3.5em;
 }
 
 .short-desc {
@@ -1104,6 +1104,10 @@ color: #336699;
 /* No media query since this is the default in Bootstrap */
 
 @media screen and (max-width: 767px){ 
+
+h1.entry-title {
+font-size: 4.5em;
+}
 
 .navbar>.container .navbar-brand {
 margin-left: 15px;

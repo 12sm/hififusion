@@ -1,28 +1,6 @@
 <footer class="content-info container tk-iskra" role="contentinfo">
       
-      
-      <!-- 
-      <div class="row sidebar-footer">
-      	<?php dynamic_sidebar('sidebar-footer'); ?>
-    </div>
-    <div class="row footer-nav">  
-        <?php
-     if (has_nav_menu('footer_navigation')) :
-       wp_nav_menu(array('theme_location' => 'footer_navigation', 'menu_class' => ''));
-     endif;
-  ?>
-    </div>
-         
-      <div id="social" class="row social-nav">
-  <?php
-     if (has_nav_menu('social_navigation')) :
-       wp_nav_menu(array('theme_location' => 'social_navigation', 'menu_class' => ''));
-     endif;
-  ?>
-  </div>
-      -->
-      
-      	<div class="row-fluid">
+<div class="row">
       <div class="col-md-6 col-sm-6 col-xs-12 footer-text">
       	615.298.3873<br />
         INFO@HIFIFUSION.COM<br />
@@ -33,17 +11,17 @@
         <p class="credits">&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>  |  <a href="http://12southmusic.com/" target="_blank">built by 12SM</a></p>
       </div>
      
-      <div class="col-md-36 col-sm-3 col-xs-12">
+      <div class="col-md-3 col-sm-3 col-xs-12">
       </div>
       
       <div class="col-md-3 col-sm-3 col-xs-12 footer-text footer-text-right">
-      	VISIT OUR SISTER COMPANY:<br />
-        <p><a href="http://www.toddcassetty.com/" class="tcws-logo" title="Todd Cassetty Welding Service, Inc." alt="Visit our sister company, Todd Cassetty Welding Service, Inc."></a></p>
+      	<p>VISIT OUR SISTER COMPANY:</p>
+        <div class="row"><a href="http://www.toddcassetty.com/" class="tcws-logo" title="Todd Cassetty Welding Service, Inc." alt="Visit our sister company, Todd Cassetty Welding Service, Inc."></a></div>
         <p>&nbsp;</p>
-        <div class="credits-mobile">
+        <div class="credits-mobile row">
         <p>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>  |  <a href="http://12southmusic.com/" target="_blank">built by 12SM</a></p></div>
       </div>
-      </div>
+</div>
       
       
      
