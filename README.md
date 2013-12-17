@@ -4,4 +4,4 @@ hififusion
 WP Theme for Hi-Fi Fusion
 
 
-Yep, this is awesome.
+Yep, this is awesome.  DEPLOY!
