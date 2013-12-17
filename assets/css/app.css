@@ -128,7 +128,8 @@ body.home .main {background: #e8e8e8;}
 body.home .main {
 font-size: 24px;
 padding: 5%;
-text-align:center;;
+text-align:center;
+margin-bottom:0px;
 }
 
 body.home .welcome {
