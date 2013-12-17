@@ -17,7 +17,7 @@
  *
  * @var string
  */
-define('SECRET_ACCESS_TOKEN', 'deploynow!');
+define('SECRET_ACCESS_TOKEN', 'deploynow');
 
 /**
  * The address of the remote Git repository that contains the code that's being
