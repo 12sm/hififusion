@@ -296,7 +296,6 @@ opacity: 0;
 -webkit-transition: 500ms;
 -moz-transition: 500ms;
 transition: 500ms;
-border: 1px solid rgba(0,0,0,0.8);
 -webkit-box-shadow: inset 0px 0px 50px 5px rgba(0,0,0,0.6);
 }
 
@@ -330,12 +329,11 @@ font-style: italic;
 color:#999;
 font-size:28px;
 padding:10px;
-margin-bottom: 30px;
 }
 
 .long-desc {
 line-height:1.5em;
-padding-top: 20px;
+padding-top: 0px;
 padding:10px;
 -moz-column-count:1; /* Firefox */
 -webkit-column-count:1; /* Safari and Chrome */
