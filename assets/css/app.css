@@ -599,7 +599,8 @@ height: 65px;
 display: block;
 text-indent: -9999;
 text-align: right;
-float:right;
+float: none;
+margin: 0px auto;
 }
 
 .credits {
@@ -1304,10 +1305,8 @@ body.home #mi-slider .type-desc {
 width: 90%;
 }
 
-.tcws-logo a {
-float:none!important;
-text-align:center;
-margin:0 auto;
+.tcws-logo {
+float:right;
 }
 	
 }
