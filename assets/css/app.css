@@ -1226,7 +1226,7 @@ color: #fff;
 
 
 .mi-slider {
-padding-bottom: 115%;
+padding-bottom: 95%;
 }
 
 .mi-slider ul li {
@@ -1311,7 +1311,7 @@ margin:0 auto;
 @media (min-width: 992px) { 
 
 .mi-slider {
-padding-bottom: 42%;
+padding-bottom: 35%;
 }
 
 .topslider .container {
@@ -1388,7 +1388,7 @@ body.home .wrap {max-width:100%;}
 .wrap .container {max-width:85%!important;}
 
 .mi-slider {
-padding-bottom: 38%;
+padding-bottom: 30%;
 }
 	
 .mi-slider nav a {
