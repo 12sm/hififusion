@@ -1117,10 +1117,12 @@ height: auto;
 
 .mi-slider ul {
 position: relative;
-display: inline;
+display: none;
 bottom: auto;
 pointer-events: auto;
 }
+
+.mi-slider ul.mi-current {display:inline;}
 
 .mi-slider ul li {
 -webkit-animation: none !important;
@@ -1129,7 +1131,8 @@ animation: none !important;
 -webkit-transform: translateX(0) !important;
 -moz-transform: translateX(0) !important;
 transform: translateX(0) !important;
-width: 40%;
+width: 100%;
+margin: 10px 0px;
 }
 
 body.home #mi-slider .type-desc {display:none;}
