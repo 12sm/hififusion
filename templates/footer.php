@@ -3,7 +3,7 @@
 <div class="row">
       <div class="col-md-6 col-sm-6 col-xs-12 footer-text">
       	615.298.3873<br />
-        INFO@HIFIFUSION.COM<br />
+        <a href="mailto:info@hififusion.com" target="_blank">INFO@HIFIFUSION.COM</a><br />
         <a href="https://www.facebook.com/pages/Hi-Fi-Fusion-Inc/118081092623">
         <i class="fa fa-facebook fa-icons"></i></a> 
         <a href="https://twitter.com/hififusion">

@@ -93,6 +93,17 @@ li.menu-facebook {
 display: block;
 background-image:url('../img/fb.jpg');
 background-repeat: no-repeat;
+width: 48px;
+height: 50px;
+margin-top:12px;
+margin-left:20px;
+text-indent: -9000px;	
+}
+
+li.menu-youtube {
+display: block;
+background-image:url('../img/yt.jpg');
+background-repeat: no-repeat;
 width: 70px;
 height: 50px;
 margin-top:12px;
@@ -1149,6 +1160,13 @@ margin-bottom:13px;
 }
 
 li.menu-twitter{
+width: 24px;
+height: 24px;
+margin:0 auto;
+margin-top:13px;
+}
+
+li.menu-youtube{
 width: 24px;
 height: 24px;
 margin:0 auto;
