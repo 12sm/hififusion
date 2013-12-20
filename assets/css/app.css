@@ -81,33 +81,28 @@ background-color: transparent;
 
 li.menu-twitter a {
 display: block;
-background-image:url('../img/tw.jpg');
+background: url('../img/tw.jpg') bottom center scroll no-repeat;
 background-repeat: no-repeat;
-width: 100px;
-height: 50px;
-margin-top:12px;
-text-indent: -9000px;	
+width: 37px;
+height: 37px;
+text-indent: -9000px;		
 }
 
 li.menu-facebook a {
 display: block;
-background-image:url('../img/fb.jpg');
+background: url('../img/fb.jpg') bottom center scroll no-repeat;
 background-repeat: no-repeat;
-width: 48px;
-height: 50px;
-/*margin-top:12px;
-margin-left:20px;*/
+width: 37px;
+height: 37px;
 text-indent: -9000px;	
 }
 
 li.menu-youtube a {
 display: block;
-background-image:url('../img/yt.jpg');
+background: url('../img/yt.jpg') bottom center scroll no-repeat;
 background-repeat: no-repeat;
-width: 70px;
-height: 50px;
-margin-top:12px;
-margin-left:20px;
+width: 37px;
+height: 37px;
 text-indent: -9000px;	
 }
 
@@ -1157,27 +1152,6 @@ margin: 10px 0px;
 
 body.home #mi-slider .type-desc {display:none;}
 
-li.menu-facebook{
-width: 24px;
-height: 24px;
-margin:0 auto;
-margin-bottom:13px;
-}
-
-li.menu-twitter{
-width: 24px;
-height: 24px;
-margin:0 auto;
-margin-top:13px;
-}
-
-li.menu-youtube{
-width: 24px;
-height: 24px;
-margin:0 auto;
-margin-top:13px;
-}
-
 .navbar-collapse {
 max-height:390px;
 text-align:center;
@@ -1314,14 +1288,6 @@ opacity:0;
 /* these guys formerly lived in min-width:768-max-width:860 */
 .navbar-default .navbar-nav>li>a {
 padding: 13px;
-}
-
-li.menu-twitter {
-width:26px;	
-}
-
-li.menu-facebook {
-margin-left: 13px;
 }
 
 body.home #mi-slider .type-desc {
