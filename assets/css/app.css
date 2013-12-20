@@ -79,7 +79,7 @@ color: #414141;
 background-color: transparent;
 }
 
-li.menu-twitter {
+li.menu-twitter a {
 display: block;
 background-image:url('../img/tw.jpg');
 background-repeat: no-repeat;
@@ -89,18 +89,18 @@ margin-top:12px;
 text-indent: -9000px;	
 }
 
-li.menu-facebook {
+li.menu-facebook a {
 display: block;
 background-image:url('../img/fb.jpg');
 background-repeat: no-repeat;
 width: 48px;
 height: 50px;
-margin-top:12px;
-margin-left:20px;
+/*margin-top:12px;
+margin-left:20px;*/
 text-indent: -9000px;	
 }
 
-li.menu-youtube {
+li.menu-youtube a {
 display: block;
 background-image:url('../img/yt.jpg');
 background-repeat: no-repeat;
