@@ -8,6 +8,9 @@
         <i class="fa fa-facebook fa-icons"></i></a> 
         <a href="https://twitter.com/hififusion">
         <i class="fa fa-twitter fa-icons"></i></a>
+        <a href="http://www.youtube.com/channel/UCUw352UUxPy2TfvPQ4pzYwA">
+        <i class="fa fa-youtube-square fa-icons"></i></a>
+        
         <p class="credits">&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>  |  <a href="http://12southmusic.com/" target="_blank">built by 12SM</a></p>
       </div>
      

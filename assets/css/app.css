@@ -391,10 +391,12 @@ font-size:16px;
 
 .tv-light {
 background-image: url(../img/logo-light.jpg);
-width: 100%;
+width: 50%;
 height: 500px;
 background-repeat: no-repeat;
-background-position-x: 0px;
+background-position-x: center;
+margin:0 auto;
+font-size: 30px;
 }
 
 .social-contact {
@@ -596,6 +598,9 @@ font-size:20px;
 font-weight:lighter;
 letter-spacing:.06em;
 }
+
+.footer-text a {color:#A5A5A5;}
+.footer-text a:hover {color:#336699;text-decoration:none;}
 
 .footer-text-right {
 text-align:right;	
