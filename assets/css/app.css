@@ -1205,6 +1205,12 @@ text-align: center;
 height: 20px;
 }
 
+li.menu-facebook a,
+li.menu-twitter a,
+li.menu-youtube a {
+width:100%;
+}
+
 }
 
 
