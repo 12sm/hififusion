@@ -20,9 +20,9 @@
       <div class="col-md-3 col-sm-3 col-xs-12 footer-text footer-text-right">
       	<p>VISIT OUR SISTER COMPANY:</p>
         <div class="row"><a href="http://www.toddcassetty.com/" class="tcws-logo" title="Todd Cassetty Welding Service, Inc." alt="Visit our sister company, Todd Cassetty Welding Service, Inc."></a></div>
-        <p>&nbsp;</p>
         <div class="credits-mobile row">
-        <p>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>  |  <a href="http://12southmusic.com/" target="_blank">built by 12SM</a></p></div>
+         <p>&nbsp;</p>
+         <p>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>  |  <a href="http://12southmusic.com/" target="_blank">built by 12SM</a></p></div>
       </div>
 </div>
       
