@@ -113,7 +113,7 @@ text-indent: -9000px;
 #top-slider {
 max-width:1300px;
 margin: 0px auto!important;	
-overflow:hidden;
+overflow:visible;
 }
 
 .topslider .container {
