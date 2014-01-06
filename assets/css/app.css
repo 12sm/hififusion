@@ -435,6 +435,12 @@ padding-bottom: 20%;
 transition: all 0.2s ease-in-out;
 }
 
+.logo img {
+width: 100%;
+height: auto;
+}
+
+
 .logo:hover {
 -webkit-filter: none; 	
 }
