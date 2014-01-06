@@ -424,6 +424,16 @@ background: transparent url(/assets/img/back_lowerslider.jpg) top center scroll 
 padding-bottom: 20%;	
 }
 
+/* ===== About Page ===== */
+
+.logo {
+-webkit-filter: grayscale(100%); 	
+}
+
+.logo:hover {
+-webkit-filter: none; 	
+}
+
 /* ==========================================================================
    Primary Content
    ========================================================================== */
