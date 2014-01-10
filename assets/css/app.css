@@ -1233,6 +1233,10 @@ width: 100%;
 margin: 10px 0px;
 }
 
+.mi-slider {
+padding-bottom: 0%;
+}
+
 body.home #mi-slider .type-desc {display:none;}
 
 .navbar-collapse {
