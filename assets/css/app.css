@@ -602,6 +602,40 @@ text-align: left;
 padding: 0px;
 }
 
+#comments img {
+width: auto;
+height: auto;
+}
+
+#comments h3 {
+border-top: 1px solid #CCC;
+padding-top: 20px;
+}
+
+#comments li.comment {
+background-color: #F5F5F5;
+padding: 1%;
+}
+
+#comments time {
+font-size: 9px;
+color:#777;
+}
+
+.comment-edit-link {
+font-size: 9px;
+color:#777;
+}
+
+#comments p {
+font-size: 16px;
+}
+
+h4.media-heading a {
+color: black;
+border-bottom: 1px dotted #000;
+}
+
 /* ==========================================================================
    Footer
    ========================================================================== */
