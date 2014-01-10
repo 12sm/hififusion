@@ -210,6 +210,10 @@ font-size:16px;
 text-align: left;
 }
 
+h4.project-title {
+vertical-align: middle;
+}
+
 
 
 /* ==========================================================================
