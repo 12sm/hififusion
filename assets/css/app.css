@@ -463,10 +463,15 @@ width: 100%;
 height: auto;
 }
 
-
 .logo:hover {
 -webkit-filter: none; 	
 opacity: 1;
+}
+
+.container-about.container.no-padding.no-margin {
+margin: 0;
+padding: 0;
+width: 100%;
 }
 
 /* ==========================================================================
