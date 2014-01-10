@@ -1247,6 +1247,10 @@ float:right;
 margin-top:35px;
 }	
 
+#menu-primary-navigation a:hover {
+color: #336699;
+}
+
 #top-slider .slide-title {font-size: 41px;}
 
 #top-slider .slide-desc {
