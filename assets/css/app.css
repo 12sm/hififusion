@@ -87,7 +87,7 @@ height: 37px;
 text-indent: -9000px;		
 }
 
-li.menu-twitter a {
+li.menu-twitter a:hover, li.menu-facebook a:hover, li.menu-youtube a:hover {
 background-color:#336699; 
 opacity:.75; /*FF/OPERA/Chrome*/ 
 filter: alpha(opacity=75); /*IE 5-7*/ 
