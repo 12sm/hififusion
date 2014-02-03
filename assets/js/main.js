@@ -87,6 +87,13 @@ var vimeoPlayers = $('.flexslider').find('iframe'), player;
 		    		$(".width2").css("height",$height);
 		    	});      
 
+				$(".width1").each(function( i ){
+		    		var $box = $(this);
+		    		var $width = $(this).width();
+		    		var $curr_width =parseInt($width); // removes the "px" at the end
+		    		var $height = $curr_width*0.5605095541401274 + "px";
+		    		$(".width1 > div > a > img, .width1 > div > img").css("height",$height);
+		    	});
 		    	
       
       
@@ -113,7 +120,7 @@ var vimeoPlayers = $('.flexslider').find('iframe'), player;
 		    		var $box = $(this);
 		    		var $width = $(this).width();
 		    		var $curr_width =parseInt($width); // removes the "px" at the end
-		    		var $height = $curr_width*0.2768 + "px";
+		    		var $height = $curr_width*0.2789223454833597 + "px";
 		    		$(".width2").css("height",$height);
 		    	});
 
