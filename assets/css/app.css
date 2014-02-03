@@ -345,12 +345,12 @@ font-size:3.5em;
 .short-desc {
 font-family: "Arvo", Arvo, sans-serif;
 font-weight: 500;
-line-height: 1.5;
+/*line-height: 1.5;*/
 font-style: italic;
 color:#999;
 font-size:14px;
-padding:10px;
 height: inherit;
+margin: 0 0 10px!important;
 }
 
 .long-desc {
