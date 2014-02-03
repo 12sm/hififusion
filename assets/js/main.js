@@ -92,7 +92,7 @@ var vimeoPlayers = $('.flexslider').find('iframe'), player;
 		    		var $width = $(this).width();
 		    		var $curr_width =parseInt($width); // removes the "px" at the end
 		    		var $height = $curr_width*0.5605095541401274 + "px";
-		    		$(".width1 > div > a > img, .width1 > div > div > img").css("height",$height);
+		    		$(".width1 > div > a > img, .width1 > div > img").css("height",$height);
 		    	});
       
       
