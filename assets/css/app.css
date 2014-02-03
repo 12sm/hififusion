@@ -300,6 +300,7 @@ vertical-align: middle;
 #projects .item {
 width:100%;
 margin-bottom:5px;
+overflow: hidden;
 }
 
 #projects .item .desc {
@@ -349,6 +350,7 @@ font-style: italic;
 color:#999;
 font-size:14px;
 padding:10px;
+height: inherit;
 }
 
 .long-desc {
