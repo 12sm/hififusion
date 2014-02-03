@@ -141,11 +141,8 @@ var vimeoPlayers = $('.flexslider').find('iframe'), player;
 		    	});
 
 		    	$(".width3").each(function( i ){
-		    		var $box = $(this);
-		    		var $width = $(this).width();
-		    		var $curr_width =parseInt($width); // removes the "px" at the end
-		    		var $height = $curr_width*0.5578446909667195 + "px";
-		    		$(".width3 > div > a > img, .width3 > div > img").css("height",$height);
+		    		var $height = $(.width1).height();
+		    		$(".width3 > div > a > img, .width3 > div > img").css("height",$height*2);
 		    	});
 		    	
 		    	//$( ".mi-slider nav" ).css("top", "60%");		
