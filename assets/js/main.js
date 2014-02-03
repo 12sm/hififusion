@@ -142,7 +142,7 @@ var vimeoPlayers = $('.flexslider').find('iframe'), player;
 
 		    	$(".width3").each(function( i ){
 		    		var $height = $(".width1").height();
-		    		$(".width3 > div > a > img, .width3 > div > img").css("height",$height*2);
+		    		$(".width3 > div > a > img, .width3 > div > img").css("height",$height*2+5);
 		    	});
 		    	
 		    	//$( ".mi-slider nav" ).css("top", "60%");		
