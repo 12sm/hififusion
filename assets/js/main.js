@@ -118,11 +118,12 @@ var vimeoPlayers = $('.flexslider').find('iframe'), player;
 	   $('#filters a').click(function(){
 		      var selector = $(this).attr('data-filter');
 		      	$container.isotope({ filter: selector });
-		      return false;
 		      $container.isotope({
 			   // update columnWidth to a percentage of container width
 			   masonry: { columnWidth: $container.width() / 4 }
 			});
+		      return false;
+
 		});
 		
 		$(".item").css("opacity", "1");
