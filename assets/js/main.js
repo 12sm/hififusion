@@ -102,7 +102,6 @@ var vimeoPlayers = $('.flexslider').find('iframe'), player;
 		    		var $height = $curr_width*0.5578446909667195 + "px";
 		    		$(".width3 > div > a > img, .width3 > div > img").css("height",$height);
 		    	});
-		    	
       
       
       	var $container = $('#projects');
