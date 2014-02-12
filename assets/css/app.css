@@ -35,6 +35,8 @@ body.home .page-header {display:none;}
 
 header .container {max-width:1300px!important;}
 
+.page-header {text-align:center;}
+
 .page-header h1 {text-transform: uppercase; font-size:46px;}
 
 /* ==========================================================================
@@ -219,6 +221,8 @@ vertical-align: middle;
 /* ==========================================================================
    Our Work
    ========================================================================== */
+
+#filters {margin:0px auto; display:block;}
 
 /**** Isotope filtering ****/
 #filters li{
@@ -1540,8 +1544,6 @@ column-count:3;
 body .wrap {max-width:95%; margin:0px auto;}
 body.home .wrap {max-width:100%;}
 
-.page-header {text-align:center;}
-
 #projects {max-width:none; margin:0px auto;}
 
 .short-desc {
@@ -1550,7 +1552,6 @@ margin: 20px 0px 30px 0px;
 }
 
 #filters {margin:0px auto; width:680px; display:block;}
-
 
 
 }
