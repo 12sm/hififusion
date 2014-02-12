@@ -1419,6 +1419,8 @@ width: 90%;
 .tcws-logo {
 float:right;
 }
+
+#filters {margin:0px auto; width:680px; display:block;}
 	
 }
 
@@ -1550,8 +1552,6 @@ body.home .wrap {max-width:100%;}
 padding:30px;
 margin: 20px 0px 30px 0px;
 }
-
-#filters {margin:0px auto; width:680px; display:block;}
 
 
 }
