@@ -61,7 +61,7 @@ var vimeoPlayers = $('.flexslider').find('iframe'), player;
 		 });
 		 function parallax(){
 		    var scrolled = $(window).scrollTop();
-		    $('.welcome').css('background-position-y',-(scrolled*0.6)+'px');
+		    $('.welcome').css('background-position-y',-(scrolled*1.6)+'px');
 	    }    
 	    	    
 	    
