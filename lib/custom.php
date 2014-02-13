@@ -4,7 +4,7 @@
  */
 
 
-function vidthumb_funct($atts) {
+function vidthumb_func($atts) {
    extract(shortcode_atts(array(
       'id' => 200,
    ), $atts));
