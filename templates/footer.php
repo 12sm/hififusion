@@ -11,7 +11,7 @@
         <a href="http://www.youtube.com/channel/UCUw352UUxPy2TfvPQ4pzYwA">
         <i class="fa fa-youtube-square fa-icons"></i></a>
         
-        <p class="credits">&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>  |  <a href="http://12southmusic.com/" target="_blank">built by 12SM</a></p>
+        <p class="credits">&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?></p>
       </div>
      
       <div class="col-md-3 col-sm-3 col-xs-12">
