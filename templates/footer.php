@@ -4,11 +4,11 @@
       <div class="col-md-6 col-sm-6 col-xs-12 footer-text">
       	615.298.3873<br />
         <a href="mailto:info@hififusion.com" target="_blank">INFO@HIFIFUSION.COM</a><br />
-        <a href="https://www.facebook.com/pages/Hi-Fi-Fusion-Inc/118081092623">
+        <a href="https://www.facebook.com/pages/Hi-Fi-Fusion-Inc/118081092623" target="_blank">
         <i class="fa fa-facebook fa-icons"></i></a> 
-        <a href="https://twitter.com/hififusion">
+        <a href="https://twitter.com/hififusion" target="_blank">
         <i class="fa fa-twitter fa-icons"></i></a>
-        <a href="http://www.youtube.com/channel/UCUw352UUxPy2TfvPQ4pzYwA">
+        <a href="http://www.youtube.com/channel/UCUw352UUxPy2TfvPQ4pzYwA" target="_blank">
         <i class="fa fa-youtube-square fa-icons"></i></a>
         
         <p class="credits">&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?></p>
