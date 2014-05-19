@@ -1474,11 +1474,24 @@ body.home .projects {
 padding-bottom: 30%;
 }
 
-#projects .item {width:24.7%;}
+#projects .item {
+width: 24.7%;
+height: 0px;
+padding-bottom: 13.6%;
+}
 
-#projects .width2 {width: 49.7%; /*max-height:202px; overflow: hidden;*/}
+#projects .width2 {
+width: 49.7%;
+height: 0px!important;
+}
 
-#projects .width3 {width: 49.7%;}
+#projects .width3 {
+width: 49.7%;
+height: 0px;
+padding-bottom: 27.6%;
+}
+
+#projects .width3 .featured-image img {height:auto!important;}
 
 .wrap .container {max-width:100%!important;}
 
