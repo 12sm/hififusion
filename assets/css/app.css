@@ -1421,6 +1421,11 @@ float:right;
 }
 
 #filters {margin:0px auto; width:680px; display:block;}
+
+.bslider-link a {
+width:300px;
+}
+
 	
 }
 
@@ -1529,10 +1534,6 @@ font-size: 26px;
 
 .mi-slider ul {
 padding-bottom: 50%;
-}
-
-.bslider-link a {
-border: 0px solid !important;
 }
 
 body.home #mi-slider .type-desc h4 {
