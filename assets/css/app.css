@@ -870,7 +870,6 @@ text-align: center;
 pointer-events: none;
 margin: 0px;
 padding:0px;
-padding-bottom: 50%;
 overflow:hidden;
 }
 
@@ -1363,9 +1362,6 @@ width: 40%;
 padding: 20px 0px;
 }
 
-.mi-slider ul {
-padding-bottom: 130%;
-}
 
 body.home .projects {
 padding-bottom:30%;
@@ -1471,9 +1467,6 @@ margin: 0 auto;
 padding: 20px 0px;
 }
 
-.mi-slider ul {
-padding-bottom:70%;
-}
 
 body.home .projects {
 padding-bottom: 30%;
@@ -1533,7 +1526,7 @@ font-size: 26px;
 }
 
 .mi-slider ul {
-padding-bottom: 50%;
+padding-bottom: 45%;
 }
 
 body.home #mi-slider .type-desc h4 {
