@@ -24,7 +24,6 @@ http://12southmusic.com/
   
   <script type="text/javascript" src="//use.typekit.net/fvf8uza.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5202adac0a506edf"></script>
   
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
